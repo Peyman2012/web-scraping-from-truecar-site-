@@ -121,7 +121,7 @@ empdata = pd.read_csv('C:\\Users\\peyman\\Downloads\\Buy_Price.csv')
 try:
     con = msql.connect(host='127.0.0.1',
                        user='root',
-                       password='peiman2012',
+                       password='',
                        database='buy_car'
                        )
     if con.is_connected():
