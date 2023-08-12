@@ -7,5 +7,6 @@ Output in mysql database:
 ![photo_۲۰۲۳-۰۸-۰۷_۱۷-۰۷-۴۲](https://github.com/Peyman2012/web-scraping-from-truecar-site-/assets/88220773/b67e3899-ad2c-4f98-a4e1-5950bdaad8cf)
 
 output 3 from project 3 :
+
 ![photo_2023-08-12_17-24-39](https://github.com/Peyman2012/web-scraping-from-truecar-site-/assets/88220773/17defbc7-59a6-4f33-abde-a063e60de31c)
 
