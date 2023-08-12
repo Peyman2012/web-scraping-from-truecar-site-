@@ -8,5 +8,6 @@ Output in mysql database:
 
 output 3 from project 3 :
 
+
 ![photo_2023-08-12_17-24-39](https://github.com/Peyman2012/web-scraping-from-truecar-site-/assets/88220773/17defbc7-59a6-4f33-abde-a063e60de31c)
 
