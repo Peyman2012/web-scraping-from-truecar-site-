@@ -109,7 +109,7 @@ empdata = pd.read_csv('C:\\Users\\peyman\\Downloads\\Buy_Price.csv')
 # print(empdata.head())
 # print(empdata)
 # try:
-#     con = msql.connect(host='127.0.0.1',user='root',password='peiman2012')
+#     con = msql.connect(host='127.0.0.1',user='root',password='')
 #     if con.is_connected():
 #         cursor = con.cursor()
 #         cursor.execute("create database buy_car")
